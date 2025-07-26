@@ -1,0 +1,28 @@
+^D:\MC\FRONTEND\LOGINSSO\BUILD\WINDOWS\X64\CMAKEFILES\5ABEE077D18700F6A2AFF025FF4F403C\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\fl\flutter PROJECT_DIR=D:\mc\frontend\loginsso FLUTTER_ROOT=D:\fl\flutter FLUTTER_EPHEMERAL_DIR=D:\mc\frontend\loginsso\windows\flutter\ephemeral PROJECT_DIR=D:\mc\frontend\loginsso FLUTTER_TARGET=D:\mc\frontend\loginsso\lib\main.dart DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzIuNA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049NmZiYTI0NDdlOQ==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049OGNkMTllNTA5ZA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My44LjE= DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\mc\frontend\loginsso\.dart_tool\package_config.json D:/fl/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MC\FRONTEND\LOGINSSO\BUILD\WINDOWS\X64\CMAKEFILES\266D0970CB5EBC243DBE3CEAEAC1DD69\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MC\FRONTEND\LOGINSSO\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/mc/frontend/loginsso/windows -BD:/mc/frontend/loginsso/build/windows/x64 --check-stamp-file D:/mc/frontend/loginsso/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

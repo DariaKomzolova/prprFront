@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ced299bb44751739bc54af8b26a6eaff/nuget-populate.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/067f8a6bcec9f6a99c64a1413e61f1dc/nuget-populate-complete.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-build.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-configure.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-copyfile.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-download.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-install.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-mkdir.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-patch.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-test.rule
+D:/mc/frontend/loginsso/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/72598d062ae9bdc07ffb3db42ff845e0/nuget-populate-update.rule
